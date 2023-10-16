@@ -1,0 +1,23 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "Репозитория для заданий по Web",
+  "main": "lesson1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himeori/WebDev.git"
+  },
+  "author": "Pavel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himeori/WebDev/issues"
+  },
+  "homepage": "https://github.com/himeori/WebDev#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  }
+}
